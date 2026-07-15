@@ -20,7 +20,6 @@ A simple and interactive **Student Management System** built using **Core Java**
 - Java 21
 - Core Java
 - Object-Oriented Programming (OOP)
-- ArrayList
 - Scanner Class
 
 ## ▶️ How to Run
@@ -40,7 +39,6 @@ java Main
 
 - Java Basics
 - Classes and Objects
-- ArrayList
 - Methods
 - Loops
 - Conditional Statements
@@ -54,11 +52,9 @@ java Main
 - GUI using Java Swing / JavaFX
 - MySQL Database Integration
 - JDBC Connectivity
-- Login Authentication
 - Attendance Management
 - Marks Management
 - File Storage
-- Export Reports
 
 ---
 
